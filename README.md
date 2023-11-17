@@ -10,3 +10,7 @@ Important Notes:
 - RGB housings are designed to have the LED cutout north side, and stabs north side as well. In the cases where this isn't possible (example 2U backspace can be an issue with cases) you will need to flip the stabs and the switches immediately below that row. You may need to flip more than just the row below depending, but you can have two LED cutouts facing each other as you can get away with it in most offsets and even in situations where they do hit (the LED cutouts are inline) then you can trim the protrusion on the housing as it is only used for LED light redirection (it is an RGB LED light pipe afterall).
 
 - CAD models aren't 100% accurate but are the best I was able to measure and will function for testing/reference and possibly more but I make no guarantee of the accuracy of every single detail that you might be interested in knowing.
+
+- Wire Bender is designed to work with the following wire bender: https://www.dubro.com/products/e-z-bender-wire-forming-tool?variant=27880341575
+- Bender only uses the base and forming die and replaces the handle with two in order to properly bend wires to the correct length.
+- No tutorials on how to use it, learn/test at your own risk. Use 1mm or 0.039in music wire for best results.
