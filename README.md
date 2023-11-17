@@ -8,6 +8,7 @@ Reference files for the Topre R2 RGB keyboards. Includes cutouts and models for 
 - RGB stabs do require custom wires as they are only 1mm(0.039in) thick instead of 1.58mm - 1.6mm(0.062in - 0.063in) like MX stab wires. As well as they are wider, due to the offset mentioned above, and they have longer legs to go in the stabs.
 
 - RGB housings are designed to have the LED cutout north side, and stabs north side as well. In the cases where this isn't possible (example 2U backspace can be an issue with cases) you will need to flip the stabs and the switches immediately below that row. You may need to flip more than just the row below depending, but you can have two LED cutouts facing each other as you can get away with it in most offsets and even in situations where they do hit (the LED cutouts are inline) then you can trim the protrusion on the housing as it is only used for LED light redirection (it is an RGB LED light pipe afterall).
+- When flipping stabs/cutouts **ALWAYS** reference the offset center as not doing that will cause the offset to double in the wrong direction and bind horribly. So please, always double/triple check.
 
 - CAD models aren't 100% accurate but are the best I was able to measure and will function for testing/reference and possibly more but I make no guarantee of the accuracy of every single detail that you might be interested in knowing.
 
