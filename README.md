@@ -1,7 +1,7 @@
 # Topre_R2_RGB_Reference
 Reference files for the Topre R2 RGB keyboards. Includes cutouts and models for 1U, and 2U, plus cutouts for 3U, and 7U/10U.
 
-Important Notes:
+**Important Notes:**
 
 - RGB plate cutouts are offset from switch center by 0.2mm, so make 100% sure that you follow the centerpoint shown in the cutout files for the exact center you should reference.
 - RGB stabs are offset from the normal MX spacing due to topre housings being too wide to fit in the MX spacing of 0.94in(23.876mm) center to center (for 2U). They are instead 28.276mm (for 2U), or each stem is offset by 2.2mm. This can be extrapolated to other widths as well, just add 4.4mm total or add the 2.2mm to each side from center.
