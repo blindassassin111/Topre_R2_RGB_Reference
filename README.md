@@ -9,4 +9,4 @@ Important Notes:
 
 - CAD models aren't 100% accurate but are the best I was able to measure and will function for testing/reference and possibly more but I make no guarantee of the accuracy of every single detail that you might be interested in knowing.
 
-- RGB stabs do require custom wires as they are only 1mm(0.039in) thick instead of 1.58mm - 1.6mm(0.062in - 0.063in) like MX stab wires.
+- RGB stabs do require custom wires as they are only 1mm(0.039in) thick instead of 1.58mm - 1.6mm(0.062in - 0.063in) like MX stab wires. As well as they are wider, due to the offset mentioned above, and they have longer legs to go in the stabs.
